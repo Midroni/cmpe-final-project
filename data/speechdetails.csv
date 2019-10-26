@@ -1,0 +1,149 @@
+Name,Year,File number,IC
+G. Washington,1790,1,2.1
+G. Washington,1790,2,2
+G. Washington,1791,3,1.75
+G. Washington,1792,4,1.4
+J. Adam,1797,9,2.5
+J. Adam,1798,10,1.75
+J. Adam,1799,11,1.6
+J. Adam,1800,12,1.5
+T. Jefferson,1801,13,1.875
+T. Jefferson,1802,14,1.9
+T. Jefferson,1803,15,2.1
+T. Jefferson,1804,16,1.75
+J. Madison,1809,21,1.5
+J. Madison,1810,22,2
+J. Madison,1811,23,1.9
+J. Madison,1812,24,1.5
+J.Monroe,1817,29,2
+J.Monroe,1818,30,1.7
+J.Monroe,1819,31,1.7
+J.Monroe,1820,32,1.5
+J.Q. Adams,1825,37,2
+J.Q. Adams,1826,38,1.2
+J.Q. Adams,1827,39,1.3
+J.Q. Adams,1828,40,1.9
+A. Jackson,1829,41,1.7
+A. Jackson,1830,42,2.1
+A. Jackson,1831,43,1.5
+A. Jackson,1832,44,1.6
+M.v.Buren,1837,49,2.125
+M.v.Buren,1838,50,1.5
+M.v.Buren,1839,51,1.625
+M.v.Buren,1840,52,1.9
+J.Tyler,1841,53,1.25
+J.Tyler,1842,54,1.5
+J.Tyler,1843,55,1.2
+J.Tyler,1844,56,1
+J.Polk,1845,57,1.5
+J.Polk,1846,58,1.6
+J.Polk,1847,59,1
+J.Polk,1848,60,1
+Z.Taylor,1849,61,1.7
+M.Fillmore,1850,62,1.75
+M.Fillmore,1851,63,2.25
+M.Fillmore,1852,64,2.375
+F.Pierce,1853,65,1.5
+F.Pierce,1854,66,1.8333333
+F.Pierce,1855,67,2.1
+F.Pierce,1856,68,1.9
+J.Buchanan,1857,69,1.2
+J.Buchanan,1858,70,1.2
+J.Buchanan,1859,71,1.6
+J.Buchanan,1860,72,1.4
+A. Lincoln,1861,73,2.2
+A. Lincoln,1862,74,1.7
+A. Lincoln,1863,75,1.5
+A.Johnson,1865,77,2.4
+A.Johnson,1866,78,1.5
+A.Johnson,1867,79,1.8
+A.Johnson,1868,80,1.8
+U.Grant,1869,81,1.2
+U.Grant,1870,82,1.875
+U.Grant,1871,83,1.5
+U.Grant,1872,84,1.5
+R.Hayes,1877,89,1.5
+R.Hayes,1878,90,1.375
+R.Hayes,1879,91,1.2
+R.Hayes,1880,92,1.4
+C.Arthur,1881,93,1.9
+C.Arthur,1882,94,1.5
+C.Arthur,1883,95,1.25
+C.Arthur,1884,96,1
+G.Cleveland,1885,97,1.4
+G.Cleveland,1886,98,1.6
+G.Cleveland,1887,99,1.4
+G.Cleveland,1888,100,1.8
+B.Harrison,1889,101,1.5
+B.Harrison,1890,102,2.25
+B.Harrison,1891,103,1.7
+B.Harrison,1892,104,1.6
+W.McKinley,1897,109,1.4
+W.McKinley,1898,110,1.3333333
+W.McKinley,1899,111,1.625
+W.McKinley,1900,112,1.125
+T.Roosevelt,1901,113,2
+T.Roosevelt,1902,114,2.375
+T.Roosevelt,1903,115,1.25
+T.Roosevelt,1904,116,1.6
+W.Taft,1909,121,3.75
+W.Taft,1910,122,1.75
+W.Taft,1911,123,1.5
+W.Taft,1912,124,2
+W.Wilson,1913,125,1.625
+W.Wilson,1914,126,1.875
+W.Wilson,1915,127,1.625
+W.Wilson,1916,128,1
+W.Harding,1921,133,2.4
+W.Harding,1922,134,1.9
+C.Coolidge,1923,135,2.3
+C.Coolidge,1924,136,1.25
+C.Coolidge,1925,137,1.75
+C.Coolidge,1926,138,2.5
+H.Hoover,1929,141,1.7
+H.Hoover,1930,142,1.6
+H.Hoover,1931,143,1.4
+H.Hoover,1932,144,1.75
+F.Roosevelt,1934,145,1.6
+F.Roosevelt,1935,146,1.9
+F.Roosevelt,1936,147,1.75
+F.Roosevelt,1937,148,2.2
+H.Trueman,1946,157,1.9
+H.Trueman,1947,158,2.333
+H.Trueman,1948,159,1.875
+H.Trueman,1949,160,2.3
+D.Eisenhower,1953,164,1.2
+D.Eisenhower,1954,165,2.3
+D.Eisenhower,1955,166,1.5
+D.Eisenhower,1956,167,1.7
+J.Kennedy,1961,172,2.1
+J.Kennedy,1962,173,2.25
+J.Kennedy,1963,174,2.2
+L.Johnson,1964,175,2.4
+L.Johnson,1965,176,2
+L.Johnson,1966,177,2.8
+L.Johnson,1967,178,1.2
+R.Nixon,1970,180,1.9
+R.Nixon,1971,181,2.5
+R.Nixon,1972,182,1.9
+R.Nixon,1973,183,1.8
+G.Ford,1975,185,1.6
+G.Ford,1976,186,2
+J.Carter,1978,187,1.9
+J.Carter,1979,188,2.1
+J.Carter,1980,189,1.8
+R.Reagan,1981,190,2.3
+R.Reagan,1982,191,2.1
+R.Reagan,1983,192,2
+R.Reagan,1984,193,1.2
+G.Bush sr,1989,198,2.5
+G.Bush sr,1990,199,1.5
+G.Bush sr,1991,200,2
+W.Clinton,1993,202,1.875
+W.Clinton,1994,203,2.2
+W.Clinton,1995,204,2.2
+W.Clinton,1996,205,1.8
+G.Bush jr,2001,210,2.3
+G.Bush jr,2002,211,1.5
+G.Bush jr,2003,212,2.3
+G.Bush jr,2004,213,1.7
